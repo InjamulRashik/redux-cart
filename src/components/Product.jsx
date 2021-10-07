@@ -1,5 +1,4 @@
 import React from "react";
-import { addToCart } from "../redux/actions/cartAction";
 
 const Product = (props) => {
   const { addToCart } = props;
