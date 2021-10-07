@@ -5,7 +5,7 @@ import Cart from "./components/Cart";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Cart></Cart>
       <Shop></Shop>
     </div>
